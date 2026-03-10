@@ -224,47 +224,7 @@ spring.datasource.username=root
 spring.datasource.password=your_password
 ```
 
----
-
-## 🐙 GitHub Deployment
-
-### Step 1 — Create a .gitignore
-```
-File → New → File → .gitignore
-```
-Add this content:
-```
-target/
-*.class
-*.jar
-*.war
-.idea/
-*.iml
-.DS_Store
-```
-
-### Step 2 — Initialize Git
-Open Terminal in IntelliJ (`Alt + F12`):
-```bash
-git init
-git add .
-git commit -m "Initial commit: Banking API with Spring Boot and JWT"
-```
-
-### Step 3 — Create GitHub Repository
-- Go to https://github.com → New Repository
-- Name: `banking-api`
-- Keep it Public
-- Do NOT add README (we already have one)
-
-### Step 4 — Push to GitHub
-```bash
-git remote add origin https://github.com/YOUR_USERNAME/banking-api.git
-git branch -M main
-git push -u origin main
-```
-
----
+----
 
 ## 🛠️ Tech Stack
 
@@ -283,10 +243,10 @@ git push -u origin main
 
 ---
 
-## 👤 Author
-**Your Name**  
+## 👤 Author and Developed by
+**Sanoj Kumar Kushwaha**  
 4th Year Computer Science Student  
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Sanoj Kushwaha
 
 ---
 

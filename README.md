@@ -246,7 +246,7 @@ spring.datasource.password=your_password
 ## 👤 Author and Developed by
 **Sanoj Kumar Kushwaha**  
 4th Year Computer Science Student  
-GitHub: https://github.com/Sanoj Kushwaha
+GitHub: https://github.com/sanojkushwaha
 
 ---
 
